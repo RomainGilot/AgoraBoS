@@ -1,0 +1,3 @@
+<?php //PdoJeux
+
+return [PHP_INT_MAX, []];

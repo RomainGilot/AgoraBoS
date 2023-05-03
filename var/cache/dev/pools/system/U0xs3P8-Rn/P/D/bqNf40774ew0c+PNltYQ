@@ -1,0 +1,3 @@
+<?php //PdoJeux%2523supprimerPlateforme
+
+return [PHP_INT_MAX, []];
